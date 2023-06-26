@@ -1,15 +1,19 @@
-username: 
-password: 
+username: alexgoalie34@gmail.com
+password: veqsy1-nuzxYz-biscyt
 phone_number:
 
 positions:
 - Data Scientist
-- # Another position you want to search for
-- # A third position you want to search for
+- Python Engineer
+- Cyber Security
+- Security Engineer, Penetration Testing
+- Software Engineer
+- Ruby Software Engineer
 
 locations:
 - Remote
-- # A second location you want to search in 
+- Dallas
+- Chandler, Arizona
 
 # --------- Optional Parameters -------
 # uploads:
